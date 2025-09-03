@@ -23,6 +23,13 @@
 
 ---
 
+## 📄 Description
+I am a **results-driven Fullstack Developer & System Architect** passionate about building **scalable applications** and **production-ready systems**.  
+My expertise spans **MERN stack, machine learning, and DevOps**, with hands-on experience delivering real-world projects like **PrimeHealth ERP** and a **MERN Chat App**.  
+
+I thrive on solving **complex technical problems**, ensuring **secure APIs, efficient architectures, and automated workflows**. Beyond coding, I value **team collaboration, discipline, and continuous learning**, gained through both professional internships and independent projects.  
+
+---
 
 ## 👨‍💻 About Me
 I'm **Amanuel**, a solutions-focused Fullstack Engineer and System Architect who designs and delivers **scalable, maintainable systems**.  
@@ -101,14 +108,6 @@ I combine **MERN-stack development, machine learning, and DevOps practices** to 
 ## 🌍 Open-source & Contributions
 I believe in **clear documentation, modular code, and automated tests**.  
 You can explore my public work here: 👉 [GitHub: aman-4848](https://github.com/aman-4848)  
-
----
-
-## 📫 Contact
-- 📍 Location: Addis Ababa, Ethiopia  
-- 📧 Email: [amanuelmark747@gmail.com](mailto:amanuelmark747@gmail.com)  
-- 🔗 LinkedIn: [Amanuel Markos](https://www.linkedin.com/in/amanuel-markos)  
-- 💻 GitHub: [aman-4848](https://github.com/aman-4848)  
 
 ---
 
