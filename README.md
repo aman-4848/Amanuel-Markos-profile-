@@ -3,7 +3,7 @@ my profile
 # Amanuel — Fullstack Developer & System Architect
 
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Profile banner" width="420" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.12)"/>
+  <img src="./assets/profile-banner.jpg" alt="Profile banner " width="420" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.12)"/>
 </p>
 
 <p align="center">
