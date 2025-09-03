@@ -1,95 +1,107 @@
-# Amanuel-Markos-profile-
-my profile
-# Amanuel — Fullstack Developer & System Architect
+![profile-banner jpg](https://github.com/user-attachments/assets/4938ee34-ac88-4073-8f27-8656dcb335f5)<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amanuel Markos - Profile</title>
+    <style>
+        body {
+            background: #0d1117 url('https://www.transparenttextures.com/patterns/circuit-board.png') repeat;
+            color: #c9d1d9;
+            font-family: 'Courier New', monospace;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(13, 17, 23, 0.9);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        h1 {
+            color: #58a6ff;
+            text-align: center;
+            border-bottom: 2px solid #58a6ff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #8b949e;
+            margin-top: 20px;
+        }
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            background: #21262d;
+            border-radius: 5px;
+        }
+        .contact a {
+            color: #58a6ff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        .highlight {
+            color: #ff7b72;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Amanuel Markos</h1>
+        <p style="text-align: center;">
+            <img src="./assets/profile-banner.jpg" alt="Profile Banner" width="400" style="border-radius: 8px;">
+        </p>
 
-<p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Profile banner " width="420" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.12)"/>
-</p>
+        <div style="text-align: center; margin: 15px 0;">
+            <span class="badge">GitHub: <a href="https://github.com/amanucreation97-web" target="_blank">amanucreation97-web</a></span>
+            <span class="badge">LinkedIn: <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">Profile</a></span>
+            <span class="badge">Email: <a href="mailto:your.email@example.com">your.email@example.com</a></span>
+            <span class="badge highlight">Stack: MERN + ML + MLOps</span>
+        </div>
 
-<p align="center">
-  <a href="https://github.com/amanucreation97-web" alt="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-amanucreation97--web-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com" alt="Email">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20ML-blue?style=flat-square" alt="Stack"/>
-</p>
+        <h2>About</h2>
+        <p>I’m Amanuel Markos, a seasoned <span class="highlight">Fullstack Developer</span>, <span class="highlight">System Architect</span>, and <span class="highlight">MLOps Engineer</span>. I craft scalable, secure, and innovative tech solutions with expertise in MERN stack, machine learning, and DevOps. My work focuses on delivering production-ready systems with a passion for problem-solving and collaboration.</p>
 
----
+        <h2>Core Expertise</h2>
+        <ul>
+            <li>Scalable system design & robust APIs</li>
+            <li>ML model deployment & monitoring</li>
+            <li>Containerized deployments with Docker</li>
+            <li>Automated testing with Jest & Playwright</li>
+            <li>CI/CD pipelines & cloud infrastructure</li>
+        </ul>
 
-About
------
-I'm Amanuel — a solutions-focused Fullstack Engineer and System Architect who designs and delivers scalable, maintainable systems. I combine MERN-stack engineering, machine learning, and DevOps practices to build production-ready products that solve real business problems.
+        <h2>Tech Stack</h2>
+        <p><span class="highlight">Languages:</span> JavaScript, TypeScript, Python</p>
+        <p><span class="highlight">Frameworks:</span> React, Node.js, TensorFlow</p>
+        <p><span class="highlight">Tools:</span> Docker, GitHub Actions, MLflow, Figma</p>
 
-Core strengths: system design, robust APIs, distributed services, containerized deployments, and machine-learning-driven features.
+        <h2>Featured Projects</h2>
+        <ul>
+            <li><span class="highlight">PrimeHealth System</span>: Led development of an enterprise healthcare ERP with MERN, JWT, and payment integrations (Chapa, Telebirr).</li>
+            <li><span class="highlight">ML Dashboard</span>: Built a real-time analytics dashboard with React and ML monitoring tools.</li>
+        </ul>
 
-What I deliver
---------------
-- Production-quality MERN applications with clean APIs and secure authentication
-- Scalable system architecture (microservices, caching, resilience patterns)
-- ML integrations for analytics and recommendations
-- Repeatable deployment through Docker and CI/CD
+        <h2>How I Work</h2>
+        <p>Design-first approach, iterative delivery, and a focus on security, scalability, and testing. I thrive in collaborative environments, driving impactful solutions.</p>
 
-Tech stack (grouped)
---------------------
-- Languages & Frameworks
-  - JavaScript / TypeScript, Node.js, Express, React, Next.js
-  - Python (data & ML): scikit-learn, TensorFlow, pandas
+        <h2>Contact</h2>
+        <div class="contact">
+            <a href="mailto:your.email@example.com">Email</a> |
+            <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+            <a href="https://github.com/amanucreation97-web">GitHub</a>
+        </div>
 
-- Databases & Storage
-  - MongoDB, Redis, PostgreSQL
-  - S3-compatible object storage
-
-- Infrastructure & DevOps
-  - Docker, Docker Compose, CI/CD pipelines (GitHub Actions / GitLab CI)
-  - Cloud deployment patterns (AWS / DigitalOcean)
-  - Monitoring & logging concepts (Prometheus / Grafana)
-
-- Other Tools
-  - Testing: Jest, Playwright
-  - Design: Figma
-  - Payments & Integrations: Chapa, Telebirr, Amole
-
-Featured projects
------------------
-PrimeHealth Medical Center System
-- Role: Lead architect & fullstack implementer
-- What: Enterprise-grade modular system for healthcare operations (ERP-like).
-- Outcomes:
-  - Role-based authentication with secure JWT + Redis hybrid session management
-  - Appointment scheduling, patient record management, and billing workflows
-  - HR & Finance modules (Payroll, AP/AR/GL)
-  - Payment gateway integrations (Chapa, Telebirr, Amole)
-  - Tests: Jest + Playwright
-
-React ML Dashboard
-- Real-time dashboard for model monitoring, dataset visualization, and inference analytics.
-
-Figma UI/UX Portfolio
-- Prototypes and design explorations focused on accessibility and handoff.
-
-How I work
-----------
-- Design first: define clear, extensible system boundaries and APIs.
-- Iterate fast: deliver working increments and add automation & tests early.
-- Production-ready: focus on observability, security, and repeatable deployments.
-
-Contact
--------
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- GitHub: https://github.com/amanucreation97-web
-
-Notes
------
-- Place your profile/banner image at ./assets/profile-banner.jpg (see steps below to upload).
-- Replace placeholders (email, LinkedIn) with your real links.
-- Rename this file if you prefer a different name, but README.md is standard for GitHub repos.
-
-Footer
-------
-“I believe great systems are human-centered, maintainable, and measurable.” — Amanuel
+        <p style="text-align: center; margin-top: 20px; font-style: italic;">
+            "Building tech that empowers and endures." - Amanuel Markos
+        </p>
+    </div>
+</body>
+</html>
