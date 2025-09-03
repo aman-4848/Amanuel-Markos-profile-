@@ -1,24 +1,28 @@
-# Amanuel — Fullstack Developer & System Architect
+<h1 align="center">👋 Hi, I'm Amanuel — Fullstack Developer & System Architect</h1>
 
 <p align="center">
-  <img src="./images/profile-banner.jpg" alt="Profile banner" width="420" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.12)"/>
+  <img src="./images/profile-banner.jpg" alt="Profile" width="200" style="border-radius:50%; border:4px solid #0A66C2; box-shadow:0 8px 24px rgba(0,0,0,0.15)" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/aman-4848" alt="GitHub">
+  <a href="https://github.com/aman-4848">
     <img src="https://img.shields.io/badge/GitHub-aman--4848-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/amanuel-markos" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/amanuel-markos">
     <img src="https://img.shields.io/badge/LinkedIn-amanuel--markos-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amanuelmark747@gmail.com" alt="Email">
+  <a href="mailto:amanuelmark747@gmail.com">
     <img src="https://img.shields.io/badge/Email-amanuelmark747%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20ML%20%2B%20DevOps-blue?style=flat-square" alt="Stack"/>
   <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-green?style=flat-square" alt="Location"/>
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 I'm **Amanuel**, a solutions-focused Fullstack Engineer and System Architect who designs and delivers **scalable, maintainable systems**.  
